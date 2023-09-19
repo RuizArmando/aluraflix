@@ -1,0 +1,15 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__img{
+    width: 168px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.menu__button{
+    width: 180px;
+    height: 56px;
+}

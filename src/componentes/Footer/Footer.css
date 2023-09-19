@@ -1,0 +1,9 @@
+.rodapie{
+    display: flex;
+    justify-content: center;
+}
+
+.rodapie__img{
+    width: 100px;
+    height: 50px;
+}
